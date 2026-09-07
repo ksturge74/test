@@ -9,5 +9,5 @@ For class exercise.
 |----------|---------|
 | Name | Kelly Sturgeon |
 | Major/Focus | Library Sciences |
-| Indiana limestone carvers | CollectionBuilder & Digital Collections |
+| Project interest | Indiana limestone carvers |
 | Goal | Learning to organize and present digital content |
