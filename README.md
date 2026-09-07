@@ -1,2 +1,3 @@
 # test
 For class exercise. 
+! [Red, Blonde, Black, and Olive statue in Bloomington, Indiana] (https://assets.simpleviewinc.com/simpleview/image/fetch/c_limit,q_75,w_1200/https://bloomington.simpleviewcrm.com/images/listings/original_Red-Blonde_830529D8-0546-76E4-D0127BE082433B06-83045c5e9a8e79d.jpg)
