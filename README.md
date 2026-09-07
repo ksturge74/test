@@ -5,9 +5,9 @@ For class exercise.
 
 ## About Me & My Interests
 
-| Category | Details |
+| About Me | Information |
 |----------|---------|
-| Name | Your Name |
-| Major/Focus | Computer Science (or your field) |
-| Project Interest | CollectionBuilder & Digital Collections |
+| Name | Kelly Sturgeon |
+| Major/Focus | Library Sciences |
+| Indiana limestone carvers | CollectionBuilder & Digital Collections |
 | Goal | Learning to organize and present digital content |
