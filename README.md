@@ -11,5 +11,21 @@ For class exercise.
 | Major/Focus | Library Sciences |
 | Project interest | Indiana limestone carvers |
 | Goal | Learning to organize and present digital content |
+
 ## Resources
+
 a related item from another collection: [Carving Limestone, Indiana Limestone Company, Bedford, Indiana, October 1929](https://images.indianahistory.org/digital/collection/V0002/id/1706/)
+
+## Sample Metadata
+
+Here's an example of how metadata for a limestone carver item would be structured:
+
+```json
+{
+  "title": "Indiana Limestone Carver",
+  "date": "1920s",
+  "description": "A craftsman carving limestone in Indiana",
+  "subject": "Indiana limestone, sculpture, craftsmanship",
+  "creator": "Unknown"
+}
+```
