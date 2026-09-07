@@ -26,6 +26,6 @@ Here's an example of how metadata for a limestone carver item would be structure
   "date": "1920s",
   "description": "A craftsman carving limestone in Indiana",
   "subject": "Indiana limestone, sculpture, craftsmanship",
-  "creator": "Unknown"
+  "creator": "Jackson, Photographer, Bedford, Indiana"
 }
 ```
