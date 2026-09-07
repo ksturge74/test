@@ -29,3 +29,7 @@ Here's an example of how metadata for a limestone carver item would be structure
   "creator": "Jackson, Photographer, Bedford, Indiana"
 }
 ```
+## What I'm Learning About
+* how to use CollectionBuilder and GitHub
+* how to create a digital project using simple codes
+* the history of Indiana limestone carvers
