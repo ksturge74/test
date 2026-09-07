@@ -12,4 +12,4 @@ For class exercise.
 | Project interest | Indiana limestone carvers |
 | Goal | Learning to organize and present digital content |
 ## Resources
-A collection about Indiana limestone carvers: [Carving Limestone, Indiana Limestone Company, Bedford, Indiana, October 1929](https://images.indianahistory.org/digital/collection/V0002/id/1706/)
+a related item from another collection: [Carving Limestone, Indiana Limestone Company, Bedford, Indiana, October 1929](https://images.indianahistory.org/digital/collection/V0002/id/1706/)
