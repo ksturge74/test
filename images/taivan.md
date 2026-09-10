@@ -1,1 +1,1 @@
-(taivan.jpeg)
+taivan.jpeg
