@@ -1,1 +1,1 @@
-![taivan](path/to/taivan.jpeg)
+![taivan](taivan.jpeg)
